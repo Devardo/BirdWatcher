@@ -39,4 +39,5 @@ while True:
     # Print response
     print(img_post.status_code)
     print(img_post.text)
-
+    
+    sleep(15)
