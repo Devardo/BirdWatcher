@@ -1,4 +1,4 @@
-# H1 BirdWatcher
+# BirdWatcher
 ## Bird Spotting With Raspberry Pi and Amazon Rekognition
 
 ## Descriptioon
