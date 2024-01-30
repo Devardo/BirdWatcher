@@ -15,4 +15,5 @@ This project uses a Raspberry pi complete with a camera and motion sensor to ide
 - 1 100ohm resistor 
 
 Wire the connections as shown in the diagram below:
+
 ![Raspberry Pi Connections (3)](https://github.com/Devardo/BirdWatcher/assets/44452354/ea60104c-32ff-433e-a8da-59e8158f1ca4)
