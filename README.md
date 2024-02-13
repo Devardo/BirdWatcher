@@ -24,3 +24,4 @@ Wire the connections as shown in the diagram below:
 ## Future Development
 - Add frontend
 - Incorporate Google Cloud Vision to improve results
+- Implement AI to give information for birds
